@@ -1,6 +1,4 @@
 <h2>Programming Project 4</h2>
-<h2>Due November 2 at 11:59PM</h2>
-<hr />
 <h3>PROGRAMMING (60 points)</h3>
 <p><strong>Video Poker:</strong>  Do PROGRAMMING PROJECT  Project P7.9 in the 6th Edition of Big Java
 <br  /> 
