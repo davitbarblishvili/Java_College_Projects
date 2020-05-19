@@ -1,7 +1,5 @@
 # Programming Project 4
 
-Please remember that to submit the assignment you must click Mark as Complete under the Education menu in the toolbar.
-
 ## Problem 1 - Implementing Expression Trees - 35 points
 
 Implement a class called *ExpressionTree* in the provided ExpressionTree.java file. This class implements the *ExpressionTreeInterface* file. The constructor to ExpressionTree will take in only one String that contains a postfix expression. The operands will be integers and the operators will be restricted to +, -, \*, and /. Individual tokens, that is, the operands and operators, will be delimited by only one space. So for example:
