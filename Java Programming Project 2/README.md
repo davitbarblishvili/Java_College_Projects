@@ -1,3 +1,4 @@
+<h2>Programming Project 2</h2>
 <h3>Talk Scheduling (70 points)</h3>
 <p>Imagine you are a conference organizer and you are tasked with scheduling the largest possible subset from a set of talks all in the same room. Each talk in the set has a given start time and end time. These times cannot change. No talks that have times that overlap can be scheduled in the same room. For the sake of this assignment assume that one talk can begin instantly upon completion of the previous talk. Consider the example below with three talks in the set:</p>
 <p><strong>Talks:</strong></p>
